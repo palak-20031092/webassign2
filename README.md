@@ -1,1 +1,1 @@
-# webassign2
+Server Side Programming lab - Assignment 2
